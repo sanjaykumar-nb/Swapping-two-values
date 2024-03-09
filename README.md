@@ -27,7 +27,9 @@ b=c
 print('Swapped values are: {} {}'.format(a,b))
 ```
 ### OUTPUT
-![image](https://github.com/sanjaykumar-nb/Swapping-two-values/assets/154039979/788d5a95-1108-4c70-8bcc-8da5ef0412f2)
+![Screenshot 2024-03-09 040700](https://github.com/sanjaykumar-nb/Swapping-two-values/assets/154039979/a67f18aa-2d5f-4cea-8f13-9f933e30cb04)
+
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
