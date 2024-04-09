@@ -30,7 +30,7 @@ b=c
 print('Swapped values are: {} {}'.format(a,b))
 ```
 ### OUTPUT
-![Screenshot 2024-03-09 040700](https://github.com/sanjaykumar-nb/Swapping-two-values/assets/154039979/a67f18aa-2d5f-4cea-8f13-9f933e30cb04)
+![alt text](<Screenshot 2024-04-09 072017.png>)
 
 
 
